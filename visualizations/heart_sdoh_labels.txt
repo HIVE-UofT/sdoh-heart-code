@@ -1,0 +1,11 @@
+social-connection
+employment-status
+transportation
+violence-abuse
+financial-constraint
+physical-activity
+sexual-activity
+education
+living-condition
+substance-use
+disability-status

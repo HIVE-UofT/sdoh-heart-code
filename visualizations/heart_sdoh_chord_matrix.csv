@@ -1,0 +1,12 @@
+,social-connection,employment-status,transportation,violence-abuse,financial-constraint,physical-activity,sexual-activity,education,living-condition,substance-use,disability-status
+social-connection,136,3,1,1,12,0,2,2,8,5,1
+employment-status,3,32,1,1,2,0,0,2,6,2,1
+transportation,1,1,28,0,0,0,0,0,0,1,0
+violence-abuse,1,1,0,33,0,0,0,0,0,0,0
+financial-constraint,12,2,0,0,277,0,0,0,1,4,0
+physical-activity,0,0,0,0,0,39,0,0,0,1,0
+sexual-activity,2,0,0,0,0,0,23,0,0,0,0
+education,2,2,0,0,0,0,0,20,2,0,0
+living-condition,8,6,0,0,1,0,0,2,178,5,1
+substance-use,5,2,1,0,4,1,0,0,5,63,0
+disability-status,1,1,0,0,0,0,0,0,1,0,32
