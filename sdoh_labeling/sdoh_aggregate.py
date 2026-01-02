@@ -31,7 +31,7 @@ ONTO12 = [
 # --- Mapping from llms4sdoh atomic labels (21) to the 12-way ontology ---
 MAP_21_TO_12 = {
     "PhysSexAbuse": "violence-abuse",
-    "AdverseChildhood": "violence-abuse",  # adjust if you prefer not to fold ACEs into violence/abuse
+    "AdverseChildhood": "violence-abuse",
     "Alcohol": "substance-use",
     "Drug": "substance-use",
     "Smoking": "substance-use",
